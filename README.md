@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Nothing
-- 🌱 I’m currently learning OS dev with rust
+- 🌱 I’m currently making an ANN with rust
 - 👯 I’m looking to collaborate on Nothing
 - 🤔 I’m looking for help with anythin within my capabilities
 - 💬 Ask me about anythin within my capabilities
