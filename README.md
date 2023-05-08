@@ -24,7 +24,7 @@ note: This masterpiece is a work in progress lads, visit again upon its completi
 <br><br>Self-Questioned Answers<br>
 Q: Why do I not have a website?
 <br>
-A: I don't have much content worth putting up on my site right now, so it makes more sense to just show my projects on my GitHub profile. I'll also post my CTF writeups here (yes, I do CTFs on occasion, but I'm still a beginner).
+A: I don't have much content worth putting up on my site right now, so it makes more sense to just show my projects on my GitHub profile. I'll also post my CTF writeups here (yes, I do CTFs on occasions).
 
 
 </h6>
