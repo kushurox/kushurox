@@ -1,6 +1,6 @@
 ## Welcome to my humble abode :P
 
-- 🔭 I’m currently working on ANN with Rust
+- 🔭 I’m currently working on writing a rust based kernel
 - 👯 I’m looking to collaborate on Nothing (for now)
 - 🤔 I’m looking for help with anything within my capabilities
 - 💬 Ask me about anything within my capabilities
