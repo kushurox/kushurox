@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on writing a rust based kernel
 - 👯 I’m looking to collaborate on Nothing (for now)
 - 🤔 I’m looking for help with anything within my capabilities
-- 💬 Ask me about anything within my capabilities
-- 📫 How to reach me: linkedin, github (mindblowing right)
+- 💬 Ask me about anything related to Low-level programming (preferably x86 arch) and Cyber security (categories I am confident in: Bin exp, Crypt, Web)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/kushal-sai-3b46a21b2/">linkedin</a>, github (mindblowing right)
 - ⚡ fun Fact:
 
 
