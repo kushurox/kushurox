@@ -11,11 +11,7 @@
 
 
 ### Preferred Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python,rust" />
-
-### My Techstack for web based projects  
-<img src="https://skillicons.dev/icons?i=django,html,css,js,svelte" />
-
+<img src="https://skillicons.dev/icons?i=c,rust,python,cpp" />
 
 <br><br>
 
