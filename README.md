@@ -1,6 +1,6 @@
 ## Welcome to my humble abode :P
 
-- 🔭 I’m currently working on writing a rust based kernel
+- 🔭 I’m currently working on writing bare metal code targetting stm32f401ccu6 in Rust
 - 👯 I’m looking to collaborate on Nothing (for now)
 - 🤔 I’m looking for help with anything within my capabilities
 - 💬 Ask me about anything related to Low-level programming (preferably x86 arch) and Cyber security (categories I am confident in: Bin exp, Crypt, Web)
