@@ -1,9 +1,8 @@
 ## Welcome to my humble abode :P
 
-- 🔭 I’m currently working on writing bare metal code targetting stm32f401ccu6 in Rust
+- 🔭 I’m currently working on writing stm32 STM32-targeted Rust code
 - 👯 I’m looking to collaborate on Nothing (for now)
-- 🤔 I’m looking to help with anything within my capabilities
-- 💬 Ask me about anything related to Low-level programming (preferably x86 arch) and Cyber security (categories I am confident in: Bin exp, Crypt, Web)
+- 💬 Ask me about anything related to Low-level programming
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kushal-sai-3b46a21b2/">linkedin</a>, github (mindblowing right)
 - ⚡ fun Fact:
 
@@ -20,7 +19,7 @@ note: This masterpiece is a work in progress lads, visit again upon its completi
 <br><br>Self-Questioned Answers<br>
 Q: Why do I not have a website?
 <br>
-A: I don't have much content worth putting up on my site right now, so it makes more sense to just show my projects on my GitHub profile. I'll also post my CTF writeups here (yes, I do CTFs on occasions).
+A: I don't have much content worth putting up on my site right now, so it makes more sense to just show my projects on my GitHub profile.
 
 
 </h6>
